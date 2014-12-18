@@ -1,0 +1,25 @@
+(these are somewhat out of order)
+
+#1. Sort the cards you have in different ways. Right now shows breakdown by type. Would default sort by mana cost within each type. So within
+the creature type they would be ordered by mana cost. Would also be able to sort by mana cost, so you could see the mana curve easily. 
+
+#2 mana cost: This entire top bar sorts the card list, #4. The mana Cost doohickey would have 3 modes, =, <= or >=, you could choose 4, and get either all 
+that cost 4, less than or equal to 4, or greater than 4. 
+    For the choose set, we should allow them to select multiple sets. So if they want to build a deck from Invasion, Planeshift and Torment, they can select all 
+    3 and have all those cards appear in the card list
+
+#6 Search by abilities: We should index the cards by their abilities and let people search for all with certain abilities, like first strike etc...
+
+#4 Card List: A simple list of cards, with the categories shown. If they have selected multiple sets in #2 then maybe also show the set its from.
+
+#3. Pin cards here. You can pin a card from anywhere by either right clicking and selecting it, or by pressing the number key. If it is from your deck
+it would have a different background color than if it is from the card list so its clear to the player. For instance your deck might have a grey background,
+and a purple background for the card list, which would be reflected around the pinned card.
+
+#7. Card View Area: this would show whatever you hover your mouse over, and would retain that selection. So the last card hovered over in your deck
+would be shown here. Likewise for the card list.
+    If you click on a card, perhaps it should lock the respective card view? So if you click on hypnotic specter in your deck it would have a border
+    and be shown in the card view area regardless of what you mouse over, until you either click on another card or your mouse leaves the deck list?
+    
+#5 This could open a whole different tab in the card view area (and it should probably include the pinned card area). This new tab would have graphs showing the
+mana curve, type distribution, color composition, and whatever else we can think of. 
